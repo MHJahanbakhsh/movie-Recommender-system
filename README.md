@@ -1,4 +1,4 @@
-# movie-Recommender-system
+# Movie-Recommender-System
 
 
 #### Alright, let's talk about how item-based collaborative filtering works.
