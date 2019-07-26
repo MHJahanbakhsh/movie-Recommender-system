@@ -20,3 +20,5 @@ than one way to do it!
 And then I can just sort everything by the movie, and then by the similarity
 strength of all the similar movies to it, and there's my results for people who
 liked also liked, or people who rated this highly also rated this highly and so on
+
+### the data i used is from grouplens project https://grouplens.org/datasets/movielens/
