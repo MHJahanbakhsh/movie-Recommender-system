@@ -1,8 +1,9 @@
 # movie-Recommender-system
 
--How item-based collaborative filtering works?
 
-Alright, let's talk about how item-based collaborative filtering works. It's very
+###Alright, let's talk about how item-based collaborative filtering works.
+
+It's very
 similar to user-based collaborative filtering, but instead of users, we're looking at
 items.
  The first thing we would do is find every pair of movies that is watched by the same person. So, we
