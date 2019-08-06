@@ -34,9 +34,11 @@ music, or whatever, a chance to be discovered by people who might not have
 heard about them before. So, you know, not only is it cool technology, it also
 kind of levels the playing field a little bit, and helps new items get discovered by
 the masses. So, it plays a very important role in today's society, at least I'd like to
-think so! There are few ways of doing this, and we'll look at the main ones in
-this chapter.
-User-based collaborative filtering
+think so! 
+There are few ways of doing this, and we'll look at the main ones in
+this project.
+## User-based collaborative filtering
+
 First, let's talk about recommending stuff based on your past behavior. One
 technique is called user-based collaborative filtering, and here's how it works:
 Collaborative filtering, by the way, is just a fancy name for saying
@@ -44,7 +46,8 @@ recommending stuff based on the combination of what you did and
 what everybody else did, okay? So, it's looking at your behavior
 and comparing that to everyone else's behavior, to arrive at the
 things that might be interesting to you that you haven't heard of yet.
-1. The idea here is we build up a matrix of everything that every user has ever
+
+. The idea here is we build up a matrix of everything that every user has ever
 bought, or viewed, or rated, or whatever signal of interest that you want to
 base the system on. So basically, we end up with a row for every user in our
 system, and that row contains all the things they did that might indicate
